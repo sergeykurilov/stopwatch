@@ -1,0 +1,2 @@
+body{background:#282c34;justify-content:center;height:100vh}.App,body{display:flex;align-items:center}.App{color:#fff;flex-direction:column}.App .app-title{font-size:50px}.App .app-timer{font-size:35px;margin-top:0}.App .buttons button{background:grey;outline:none;border-radius:5px;padding:5px;cursor:pointer;margin-right:10px;min-width:100px}.App .buttons button:last-child{margin-right:0}.App .buttons button:hover{background:#d3d3d3}
+/*# sourceMappingURL=main.b489dee0.chunk.css.map */
