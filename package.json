@@ -1,6 +1,6 @@
 {
   "name": "stopwatch",
-  "homepage": "https://sergeykurilov.github.io/way-of-samuraits/",
+  "homepage": "https://sergeykurilov.github.io/stopwatch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
